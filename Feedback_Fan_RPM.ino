@@ -6,6 +6,11 @@
 //EED, Refrigeratror R&I, Walton            //
 //******************************************//
 
+
+  //Connect Digital Pin 21 of Arduino Mega2560 with Feedback pin
+  //Connect Appropiate buzzer pin
+
+
 #include "freq.h"
 
 uint32_t pulse_per_sec = 0;
